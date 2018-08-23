@@ -1,0 +1,9 @@
+.profile img {
+    filter: grayscale(100%);
+    -webkit-filter: grayscale(100%);
+}
+
+.profile img:hover {
+    filter: grayscale(0);
+    -webkit-filter: grayscale(0%);
+}
